@@ -43,6 +43,7 @@ body {
 .input:focus {
   outline: none;
 }
+
 .search.active .input {
   width: 200px;
 }
